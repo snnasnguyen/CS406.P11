@@ -10,7 +10,8 @@
 <h1 align="center"><b>IMAGE PROCESSING AND APPLICATIONS</b></h1>
 <h2 align="center"><b>LAB 02</b></h2>
 
-
+# Introduction
+In this lab, I used histogram features in two color spaces: RGB and HSV. Then, I identified the top 10 most similar images using different comparison methods.
 # Quickstart
 ## Installation
 Open terminal and run
