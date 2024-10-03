@@ -15,12 +15,12 @@ In this lab, I used histogram features in two color spaces: RGB and HSV. Then, I
 # Quickstart
 ## Download dataset
 Link : <a href="https://drive.google.com/file/d/1F6sPtl0H-Sh7XPrAojDKcz_rBoUl_fgu/view?usp=sharing">Dataset Lab2</a>
-## Installation
+## Install requirements
 Open terminal and run
 ```bash
  pip install -r requirements.txt
 ```
-## Cal hist
+## Calculate hist
 Run `calHist.py` to create two pickle files: `data_hsv.pkl` and `data_rgb.pkl`
 ```bash
  python calHist.py
