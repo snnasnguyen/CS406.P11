@@ -28,7 +28,5 @@ After creating the histogram data, use the terminal and run streamlit
  streamlit run find_top10_similarity.py
 ```
 
-<video width="640" height="480" controls>
-  <source src="22520189_Lab_02/turtorial.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="https://raw.githubusercontent.com/snnasnguyen/CS406.P11/refs/heads/master/22520189_Lab_02/turtorial.gif" alt="Turtorial"></img>
+
