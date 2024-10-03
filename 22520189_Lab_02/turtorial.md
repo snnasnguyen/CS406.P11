@@ -30,6 +30,6 @@ After creating the histogram data, use the terminal and run streamlit
 ```bash
  streamlit run find_top10_similarity.py
 ```
-
+## Demo
 <img src="https://raw.githubusercontent.com/snnasnguyen/CS406.P11/refs/heads/master/22520189_Lab_02/turtorial.gif" alt="Turtorial"></img>
 
