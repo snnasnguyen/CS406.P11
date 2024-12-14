@@ -6,3 +6,4 @@ Pillow
 sahi
 torch
 ensemble_boxes
+opencv-python-headless
