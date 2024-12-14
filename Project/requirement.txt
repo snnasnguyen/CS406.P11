@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+Pillow
+sahi
+torch
+ensemble_boxes
